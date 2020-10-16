@@ -1,0 +1,9 @@
+.ivy2/
+*.class
+*.log
+.bsp/
+.idea/
+.idea_modules/
+.sbt/
+target/
+project/target/
